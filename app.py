@@ -1,4 +1,3 @@
-from unicodedata import name
 import requests
 from bs4 import BeautifulSoup
 import psycopg2
